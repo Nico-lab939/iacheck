@@ -28,4 +28,4 @@ El objetivo principal es practicar y demostrar habilidades en desarrollo web fro
 - **Google Fonts (Inter)** - Tipografía web optimizada
 - **Tailwind CSS CDN** - Framework CSS para desarrollo rápido
 
-## 🏗️ Estructura del Proyecto
+
